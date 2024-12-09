@@ -1,0 +1,13 @@
+{
+  "name" : "chat_radio_bottom_padding_25",
+  "friendlyName" : "Add Bottom Padding to the Chat and Radio Messages",
+  "description" : "What the title says, moves the chat and radio messages a bit away from the bottom of the screen, designed for 'bottom action bar' mods.",
+  "author" : "Kevadroz",
+  "version" : "1.0",
+  "link" : "https://github.com/Kevadroz/AddChatAndRadioBottomPadding/",
+  "steamContentId" : "3381556547",
+  "tags" : "User Interface",
+  "includes" : [],
+  "requires" : [],
+  "priority" : 400
+}

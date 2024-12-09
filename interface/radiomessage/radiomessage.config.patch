@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/chatOffset/1",
+    "value": 30
+  }
+]
